@@ -1,6 +1,7 @@
 # Hello how are u ?
-i am good thank you
-# how is your day?
+## i am good thank you
+### how is your day?
+#### I’m currently working on ...
 
 <!--
 **Abhincy/abhincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
